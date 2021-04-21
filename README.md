@@ -1,4 +1,4 @@
-# Livro de Receitas
+# Livro de Iguarias
 
 Olá! Bem vindo ao meu livro de laricas :happy:
 
